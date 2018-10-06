@@ -15,8 +15,6 @@
     </string>
 
 
-
-
     <string name="overview">
       \n<b><u><h2>Overview of Austism Spectrum Disorder or (ASD)</h2></u></b>
 
@@ -46,7 +44,7 @@
         \n\nIn the past, Asperger’s syndrome and Autistic Disorder were separate disorders. They were listed as subcategories within the diagnosis of “Pervasive Developmental Disorders.” However, this separation has changed. The latest edition of the manual from the American Psychiatric Association, the Diagnostic and Statistical Manual of Mental Disorders (DSM-5), does not highlight subcategories of a larger disorder. The manual includes the range of characteristics and severity within one category. People whose symptoms were previously diagnosed as Asperger’s syndrome or Autistic Disorder are now included as part of the category called Autism Spectrum Disorder (ASD).
 
  \n <a href="https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd/index.shtml"></a> National Institute of Mental Health"</string>
-    
+
     <string name="overview2">
 
 
@@ -67,8 +65,6 @@
 https://www.cdc.gov/ncbddd/autism/facts.htm
 
     </string>
-
-
 
 
     <string name="overview3">
@@ -92,7 +88,7 @@ https://www.cdc.gov/ncbddd/autism/facts.htm
 
 
     </string>
-    <string name="NIMH_signs" >
+    <string name="NIMH_signs">
 
         \n<b><u><h2>Signs and Symptoms</h2></u></b>
 
@@ -123,8 +119,7 @@ https://www.cdc.gov/ncbddd/autism/facts.htm
     </string>
 
 
-
-    <string name="ASOA_signs" >
+    <string name="ASOA_signs">
         \n<b><u><h2>Sign and symptoms.</h2></u></b>
 \n\nThe characteristic behaviors of autism spectrum disorder may be apparent in infancy (18 to 24 months), but they usually become clearer during early childhood (24 months to 6 years).
 
@@ -140,7 +135,7 @@ https://www.cdc.gov/ncbddd/autism/facts.htm
 
     </string>
 
-    <string name="CDC_signs" >
+    <string name="CDC_signs">
 
 
 \n<b><u><h2>Signs and Symptoms: </h2></u></b>
@@ -218,9 +213,6 @@ https://www.cdc.gov/ncbddd/autism/signs.html
 
 
     </string>
-
-
-
 
 
     <string name="causesNIMH">
@@ -306,7 +298,7 @@ Changes to the diagnosis of ASD
 
     </string>
 
-    <string name="causesCDC" >
+    <string name="causesCDC">
 
 \n<u><b><h2>Causes and Risk Factors</h2></b></u>
 
@@ -341,7 +333,7 @@ Diagnosis
     </string>
 
 
-    <string name="causeASOA" >
+    <string name="causeASOA">
         \n<b><u>Diagnosis</u></b>
 
 \n\nWhen parents or support providers become concerned that their child is not following a typical developmental course, they turn to experts, including psychologists, educators and medical professionals, for a diagnosis.
@@ -518,7 +510,7 @@ Behavioral, psychological, and educational therapy
 
 
     </string>
+    <string name="title_activity_bookmarks">Bookmarks</string>
 
 
-    
 </resources>

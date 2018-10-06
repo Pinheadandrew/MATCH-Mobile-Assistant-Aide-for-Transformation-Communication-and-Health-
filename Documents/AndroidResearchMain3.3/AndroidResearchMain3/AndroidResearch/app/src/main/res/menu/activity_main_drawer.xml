@@ -66,7 +66,7 @@
     </item>
 
 
-        <item android:title="Treatments/Facts/Statistics">
+     <item android:title="Treatments/Facts/Statistics">
             <menu>
                 <item
                     android:id="@+id/nav_treatmentNIMH"
@@ -86,7 +86,28 @@
 
 
 
-        </item>
+      </item>
+
+      <item android:title="Additional Guides">
+            <menu>
+                <item
+                    android:id="@+id/socialGuides"
+                    android:title="Social"/>
+                <item
+                    android:id="@+id/emotionalGuides"
+                    android:title="Emotional"
+                    />
+                <item
+                    android:id="@+id/educationalGuides"
+                    android:title="Educational"
+                    />
+                <item
+                    android:id="@+id/otherGuides"
+                    android:title="Other"
+                    />
+            </menu>
+      </item>
+
 
 
 
