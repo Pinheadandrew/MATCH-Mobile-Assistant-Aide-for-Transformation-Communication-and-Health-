@@ -12,6 +12,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
+import android.content.Intent;
 
 public class CDCtreatment extends Fragment{
     @Nullable
@@ -19,5 +20,10 @@ public class CDCtreatment extends Fragment{
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle saveInstancedState){
         return inflater.inflate(R.layout.fragment_treatments_cdc,null);
     }
-
+    public void make_Bookmark(View v)
+    {
+        Intent bookmark = new Intent(getActivity(), Bookmarks.class);
+        startActivity(bookmark);
+    }
 }
+

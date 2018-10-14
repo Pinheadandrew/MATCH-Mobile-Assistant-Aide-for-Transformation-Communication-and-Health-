@@ -17,6 +17,8 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
+// Controls Navigational Bar behavior
+
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
     @Override
@@ -110,6 +112,15 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             fragment = new CDCtreatment();
         } else if (id == R.id.nav_treatmentASOA){
             fragment = new ASOAtreatment();
+        }
+        else if (id == R.id.guides_social){
+            fragment = new CDCtreatment();
+        }else if (id == R.id.guides_emotional){
+            fragment = new CDCtreatment();
+        }else if (id == R.id.guides_educational){
+            fragment = new CDCtreatment();
+        }else if (id == R.id.guides_other){
+            fragment = new CDCtreatment();
         }
 
         if(fragment != null){

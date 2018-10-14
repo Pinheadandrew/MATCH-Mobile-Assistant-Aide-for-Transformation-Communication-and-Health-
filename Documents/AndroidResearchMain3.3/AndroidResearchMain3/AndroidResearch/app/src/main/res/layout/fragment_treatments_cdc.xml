@@ -12,7 +12,8 @@
         android:layout_width="128dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="250dp"
-        android:text="Bookmark" />
+        android:text="Bookmark"
+        android:onClick="make_Bookmark" />
 
     <ScrollView
         android:id="@+id/ScrollView01"

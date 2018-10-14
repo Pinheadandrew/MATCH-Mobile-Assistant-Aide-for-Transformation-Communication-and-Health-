@@ -8,6 +8,14 @@
     android:fitsSystemWindows="true"
     tools:openDrawer="start">
 
+
+    <!--<Button-->
+        <!--android:id="@+id/bookmarkButton"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginLeft="250dp"-->
+        <!--android:text="Bookmark" />-->
+
     <include
         layout="@layout/app_bar_main"
         android:layout_width="match_parent"
@@ -21,5 +29,6 @@
         android:fitsSystemWindows="true"
         app:headerLayout="@layout/nav_header_main"
         app:menu="@menu/activity_main_drawer" />
+
 
 </android.support.v4.widget.DrawerLayout>

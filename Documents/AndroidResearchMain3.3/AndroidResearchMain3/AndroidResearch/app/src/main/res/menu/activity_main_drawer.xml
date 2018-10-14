@@ -91,18 +91,18 @@
       <item android:title="Additional Guides">
             <menu>
                 <item
-                    android:id="@+id/socialGuides"
+                    android:id="@+id/guides_social"
                     android:title="Social"/>
                 <item
-                    android:id="@+id/emotionalGuides"
+                    android:id="@+id/guides_emotional"
                     android:title="Emotional"
                     />
                 <item
-                    android:id="@+id/educationalGuides"
+                    android:id="@+id/guides_educational"
                     android:title="Educational"
                     />
                 <item
-                    android:id="@+id/otherGuides"
+                    android:id="@+id/guides_other"
                     android:title="Other"
                     />
             </menu>
