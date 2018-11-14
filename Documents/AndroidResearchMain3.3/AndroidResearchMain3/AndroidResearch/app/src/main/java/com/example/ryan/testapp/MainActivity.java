@@ -121,6 +121,8 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             fragment = new CDCtreatment();
         }else if (id == R.id.guides_other){
             fragment = new CDCtreatment();
+        }else if (id == R.id.nav_bookmarks){
+            fragment = new Bookmark();
         }
 
         if(fragment != null){

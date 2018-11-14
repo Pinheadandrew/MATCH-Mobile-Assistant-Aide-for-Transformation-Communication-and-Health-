@@ -7,12 +7,12 @@
     android:label="@string/app_name"
     >
 
-    <Button
-        android:id="@+id/bookmarkButton"
-        android:layout_width="128dp"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="250dp"
-        android:text="Bookmark" />
+    <!--<Button-->
+        <!--android:id="@+id/bookmarkButton"-->
+        <!--android:layout_width="128dp"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginLeft="250dp"-->
+        <!--android:text="Bookmark" />-->
 
     <ScrollView
         android:id="@+id/ScrollView01"
@@ -36,9 +36,8 @@
             android:layout_marginLeft="5sp"
             android:layout_marginRight="5sp"
             android:gravity="left"
-            android:text="@string/overview3"
+            android:text="@string/who_we_are"
             android:textSize="24sp"
-
             />
 
 
